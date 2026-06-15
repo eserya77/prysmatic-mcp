@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "prysmatic": {
+      "command": "uvx",
+      "args": ["prysmatic-mcp"],
+      "env": {
+        "PRYSMATIC_API_KEY": "${PRYSMATIC_API_KEY}"
+      }
+    }
+  }
+}

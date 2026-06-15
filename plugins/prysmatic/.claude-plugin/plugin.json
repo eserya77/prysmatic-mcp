@@ -1,0 +1,9 @@
+{
+  "name": "prysmatic",
+  "description": "Skill + MCP tools to query the Prysmatic API (tracked Solana wallets and tokens).",
+  "version": "0.1.0",
+  "author": {
+    "name": "eserya77"
+  },
+  "homepage": "https://prysmatic-sol.xyz"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "prysmatic-mcp",
+  "owner": {
+    "name": "eserya77",
+    "url": "https://github.com/eserya77"
+  },
+  "plugins": [
+    {
+      "name": "prysmatic",
+      "source": "./plugins/prysmatic",
+      "description": "Skill + MCP tools to query the Prysmatic API (tracked Solana wallets and tokens)."
+    }
+  ]
+}
